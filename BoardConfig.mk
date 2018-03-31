@@ -28,3 +28,5 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/sirius/include
 
 # Kernel properties
 TARGET_KERNEL_CONFIG := lineageos_shinano_sirius_defconfig
+
+BOARD_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy
