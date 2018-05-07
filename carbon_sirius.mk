@@ -13,3 +13,6 @@ BUILD_FINGERPRINT := Sony/D6503/D6503:6.0.1/23.5.A.1.291/2769308465:user/release
 
 PRODUCT_NAME := carbon_sirius
 PRODUCT_DEVICE := sirius
+
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.carbon.maintainer="Rcstar6696"
