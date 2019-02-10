@@ -4,4 +4,4 @@ TARGET_SCREEN_WIDTH := 1080
 
 # LCD
 PRODUCT_PROPERTY_OVERRIDES += \
-ro.sf.lcd_density=480
+ro.sf.lcd_density=420
