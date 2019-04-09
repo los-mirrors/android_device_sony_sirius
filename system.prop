@@ -1,0 +1,3 @@
+# Semc
+persist.radio.no_wait_for_card=1
+persist.radio.oem_socket=false
